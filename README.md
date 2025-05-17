@@ -6,3 +6,9 @@ This repository provides supplementary R code for the paper
 > Effect Size Estimation in Linear Mixed Models.
 > arXiv:2302.14580
 
+The following files are provided: 
+
+| File | Description |
+| ---- | ----------- |
+| `Example Code Artificial Data.R` | Contains R Code for the Analysis presented in above paper. |
+| `Example Code LMM Tutorial.R` | Contains R Code for the data set in Table 12 of Brysbaert & Debeer (2025). |
