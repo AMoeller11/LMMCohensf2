@@ -16,6 +16,6 @@ The following files are provided:
 
 The data from Table 12 is described and referenced in
 
-> Brysbaert M, Debeer D (2025) How to run linear mixed effects analysis for
+> Brysbaert, M. and Debeer, D. (2025). How to run linear mixed effects analysis for
 > pairwise comparisons? A tutorial and a proposal for the calculation of
 > standardized effect sizes. Journal of Cognition 8(1):5
